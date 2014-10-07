@@ -1,0 +1,4 @@
+AutoScreenShot
+==============
+
+Auto ScreenShot Tool
